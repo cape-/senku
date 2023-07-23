@@ -1,3 +1,5 @@
+// Senku solver simulator
+// Copyright 2023 Lautaro Capella <laucape@gmail.com>
 "use_strict";
 const { performance } = require('node:perf_hooks');
 const MAX_TRIES = 1000000;
